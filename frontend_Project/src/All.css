@@ -1,0 +1,21 @@
+.but{
+    background-color: lemonchiffon;
+    width: 100px;
+    height: 50px;
+    margin-left: 900px;
+    text-align: center;
+}
+input{
+    margin-left: 400px;
+    text-align: center;
+    background-color: lightgrey ;
+    width: 500px;
+    height: 50px;
+}
+h1{
+    text-align: center;
+}
+th,td{
+    padding: 20px;
+    
+}
